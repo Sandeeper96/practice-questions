@@ -1,4 +1,4 @@
-Two Sum Maximization	https://my.newtonschool.co/playground/code/zu4ezxqr91tl/
+Two Sum Maximization:https://my.newtonschool.co/playground/code/zu4ezxqr91tl/
 Insert Operator	https://my.newtonschool.co/playground/code/xpi5o90zwe7b/
 Hip Hip Array	https://my.newtonschool.co/playground/code/a237gf4obwl6/
 Good cells	https://my.newtonschool.co/playground/code/p0zpq11o6uvu/
