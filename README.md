@@ -1,5 +1,4 @@
 # practice-questions
-QUESTION NAME	PLAYGROUND LINKS	STATUS
 Two Sum Maximization	https://my.newtonschool.co/playground/code/zu4ezxqr91tl/	DONE
 Insert Operator	https://my.newtonschool.co/playground/code/xpi5o90zwe7b/	DONE
 Hip Hip Array	https://my.newtonschool.co/playground/code/a237gf4obwl6/	DONE
